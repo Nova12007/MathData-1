@@ -1,1 +1,1 @@
-Kindly upload the assignments in repective folders
+Familiarity with Data Science libraries is achieved
